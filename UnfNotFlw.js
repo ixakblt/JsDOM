@@ -16,6 +16,6 @@ for(var i=0; i<=anadiv.length;i++) {
         anadiv[0].remove();
     }
 }
-},200);
+},700);
 window.scrollTo(0,570);
 },3500);
