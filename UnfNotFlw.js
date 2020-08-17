@@ -1,3 +1,12 @@
+/*
+ixakblt - ibrahim AKBULUT
+-------------------------------
+ https://ixakblt.site
+-------------------------------
+https://ixakblt.com
+-------------------------------
+*/
+
 var kontrol = 0
 setInterval(function() {
 setTimeout(function() {
