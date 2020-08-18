@@ -1,10 +1,11 @@
 /*
+------------------------------------
 ixakblt - ibrahim AKBULUT
--------------------------------
- https://ixakblt.site
--------------------------------
-https://ixakblt.com
--------------------------------
+------------------------------------
+Web Site :ixakblt
+------------------------------------
+All Sites : @ixakblt
+------------------------------------
 */
 setInterval(function(){
 var inputs = document.getElementsByClassName('js-icon-favorite icon icon-favorite icon-favorite-toggle txt-center pull-left');
