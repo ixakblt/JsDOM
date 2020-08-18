@@ -1,10 +1,11 @@
 /*
+------------------------------------
 ixakblt - ibrahim AKBULUT
--------------------------------
- https://ixakblt.site
--------------------------------
-https://ixakblt.com
--------------------------------
+------------------------------------
+Web Site :ixakblt
+------------------------------------
+All Sites : @ixakblt
+------------------------------------
 */
 setInterval(function(){
         var anadiv = document.getElementsByClassName('css-1dbjc4n r-1ila09b r-qklmqi r-1adg3ll')
