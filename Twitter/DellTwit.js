@@ -16,4 +16,4 @@ setInterval(function () {
         inputs2[i].click();
         inputs3[i].click();
     }
-}, 2200);
+}, 1000);
